@@ -4,6 +4,6 @@ This is a collection of SVGs for use in [Power BI](https://powerbi.microsoft.com
 
 ## SVG Chips & Donuts
 
-I thought it would be interesting to plot the recent bank failures (as reported and managed by FDIC) against those from 2008.
+A simple table that uses an SVG to show a donut as well as demonstrating the use of SVGs nested within HTML nested within SVGs for the display of the chips.
 
 ![](https://github.com/PBI-David/SVG/blob/main/Chips%20%26%20Donuts/thumbnail.jpg)
